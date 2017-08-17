@@ -1,3 +1,3 @@
 test:
-  key: master:api-local-hann
-  api-local-hann: 1
+  key: develop:api-local-hann
+  d-api-local-hann: 1

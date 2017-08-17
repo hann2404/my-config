@@ -1,3 +1,3 @@
 test: 
-  key: master:api
-  api: 1
+  key: develop:api
+  d-api: 1

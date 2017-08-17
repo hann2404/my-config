@@ -1,3 +1,3 @@
 test: 
-  key: master:application
-  application: 1
+  key: develop:application
+  d-application: 1
