@@ -1,0 +1,3 @@
+test: 
+  key: master:application-alpha
+  application-alpha: 1

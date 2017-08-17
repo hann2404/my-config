@@ -1,0 +1,3 @@
+test: 
+  key: master:application-local-hann
+  application-local-hann: 1

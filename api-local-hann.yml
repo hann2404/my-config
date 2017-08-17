@@ -1,0 +1,3 @@
+test:
+  key: master:api-local-hann
+  api-local-hann: 1

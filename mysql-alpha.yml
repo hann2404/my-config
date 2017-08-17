@@ -1,0 +1,3 @@
+test: 
+  key: master:mysql-alpha
+  mysql-alpha: 1
