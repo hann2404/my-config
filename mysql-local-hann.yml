@@ -1,3 +1,3 @@
 test: 
   key: master:mysql-local-hann
-  mysql-local-hann: 1
+  mysql-local-hann: 2
